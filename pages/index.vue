@@ -52,14 +52,14 @@
     </v-container>
 
     <v-btn
-      color="success"
+      color="light-blue lighten-1"
       class="mr-4"
       @click="validate"
     >
       submit
     </v-btn>
     <v-btn
-      color="success"
+      color="red lighten-3"
       class="mr-4"
       @click="reset"
     >
